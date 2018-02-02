@@ -36,7 +36,7 @@ def main():
     #   ** make your Button respond to a button-press **
     #   ** by printing   "Hello"  on the Console.     **
     # ------------------------------------------------------------------
-    say_hello_button['command'] = lambda:print_hello()
+    say_hello_button['command'] = lambda: print_hello()
 
     # ------------------------------------------------------------------
     # DONE: 6. After reading and understanding the m4e module,
